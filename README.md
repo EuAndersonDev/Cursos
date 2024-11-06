@@ -4,27 +4,27 @@ Este repositório contém os cursos e materiais de estudo que estou realizando p
 
 ## Estrutura do Repositório
 
-- **[Curso Nome 1]**: Breve descrição do que o curso aborda e seus principais tópicos. Inclui exercícios e projetos práticos realizados.
-- **[Curso Nome 2]**: Resumo dos conteúdos explorados e links para materiais de apoio.
-- ...
-
+- **[Estruturas de Dados com Java]**: Curso focado em estruturas de dados, abordando implementação e otimização de algoritmos em Java. Inclui exercícios práticos e projetos pequenos.
+- **[JavaScript/TypeScript Fullstack]**: Curso completo sobre desenvolvimento fullstack com JavaScript e TypeScript. Explora desde o backend com Node.js até o frontend, incluindo frameworks e ferramentas.
+  
 ## Cursos e Conteúdos
 
-Aqui estão alguns dos principais cursos incluídos:
+Aqui estão os cursos incluídos atualmente:
 
-1. **Curso Nome 1**
-   - Plataforma: [Nome da Plataforma]
-   - Tópicos: 
-     - Introdução ao tema
-     - Estrutura de dados e algoritmos
-     - Projetos práticos
+1. **Estruturas de Dados com Java**
+   - Plataforma: Udemy
+   - Tópicos:
+     - Estruturas de dados fundamentais (listas, pilhas, filas, árvores, grafos)
+     - Algoritmos de ordenação e busca
+     - Complexidade de algoritmos
    - **Status**: Em andamento/concluído
 
-2. **Curso Nome 2**
-   - Plataforma: [Nome da Plataforma]
+2. **JavaScript/TypeScript Fullstack**
+   - Plataforma: Udemy
    - Tópicos:
-     - Fundamentos de [Tecnologia/Linguagem]
-     - Práticas recomendadas
+     - Backend com Node.js
+     - Frontend com frameworks modernos
+     - Integração com TypeScript
    - **Status**: Em andamento/concluído
 
 ## Como Utilizar este Repositório
@@ -40,7 +40,7 @@ Os materiais estão organizados para facilitar a navegação e estudo. Qualquer 
 
 Se tiver alguma dúvida ou sugestão, sinta-se à vontade para entrar em contato.
 
-[Matheus Vinicius Rodrigues Brito](https://linkedin.com/in/matheus-brito) | matheus.email@dominio.com
+[Anderson Augusto Santos Reis](https://linkedin.com/in/anderson-reis-5407311b3) 
 
 ---
 
