@@ -40,7 +40,7 @@ Os materiais estão organizados para facilitar a navegação e estudo. Qualquer 
 
 Se tiver alguma dúvida ou sugestão, sinta-se à vontade para entrar em contato.
 
-[Anderson Augusto Santos Reis](https://linkedin.com/in/anderson-reis-5407311b3) 
+[Anderson Augusto Santos Reis](https://linkedin.com/in/anderson-reis-5407311b3) | andersondev25@gmail.com
 
 ---
 
